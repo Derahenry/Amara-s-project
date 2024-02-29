@@ -1,2 +1,2 @@
-# Amara-s-project
+# Amara-project
 This is a Project
